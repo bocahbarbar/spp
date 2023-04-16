@@ -1,0 +1,31 @@
+[{
+		"id": 1,
+		"name": "assets"
+	},
+
+	{
+		"id": 2,
+		"name": "backup"
+	},
+	{
+		"id": 3,
+		"name": "laporan"
+	},
+	{
+		"id": 4,
+		"name": "vendor"
+	},
+	{
+		"id": 5,
+		"name": "respons"
+	},
+	{
+		"id": 6,
+		"name": "views"
+	},
+	{
+		"id": 7,
+		"name": "web"
+	}
+
+]
